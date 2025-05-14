@@ -40,7 +40,4 @@ Progettare e realizzare un'infrastruttura di rete con sistema di monitoraggio ce
 Anno Accademico 2024/2025  
 Università degli Studi di Salerno – Dipartimento di Informatica
 
----
 
-> “Noi che quando non ci crede più nessuno, la vinciamo alla fine.”  
-> *Olly – Il Campione*
