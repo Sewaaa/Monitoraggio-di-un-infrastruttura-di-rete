@@ -1,4 +1,4 @@
-# Monitoraggio-di-un-infrastruttura-di-rete
+# Monitoraggio-infrastruttura-di-rete
 
 Progetto sviluppato come tesi di laurea triennale in Informatica presso l'Università degli Studi di Salerno, in collaborazione con System Management S.p.A.
 
