@@ -33,11 +33,6 @@ Progettare e realizzare un'infrastruttura di rete con sistema di monitoraggio ce
 ## 📄 Contenuti del repository
 
 - `Tesi.pdf`: documento completo della tesi
-- *(Facoltativi: aggiungi file di configurazione se disponibili, ad es.)*
-  - `nagios/`: configurazioni host e servizi
-  - `postfix/`: file di setup
-  - `gns3_topology/`: export della rete simulata
-  - `imgs/`: screenshot dashboard e test
 
 ## 📬 Autore
 
